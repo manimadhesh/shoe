@@ -1,3 +1,5 @@
+
+
 * {
   margin: 0;
   padding: 0;
@@ -96,10 +98,10 @@ a:active {
   color: #000;
   background-color: #fff;
 }
-.img {
+/* .img {
   margin: 12px auto;
   margin-left: 12px;
-}
+} */
 /* .fdiv {
   background-image: url(shoe.png) no-repeat;
 } */
